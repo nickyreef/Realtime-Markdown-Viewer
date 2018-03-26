@@ -73,6 +73,7 @@ var parseStrong = function(str) {
 }
 
 
+
  var parseBlockQuote = function(str) {
   var quoteRegExp = /\:\"(.*?)\"\:/
   var stra = [];
